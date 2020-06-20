@@ -44,7 +44,7 @@ Yours might look different, but that's ok. As long as you see Python3 in the fir
 
 Run this command to install Keras, Tensorflow, and Matplotlib
 
-`sudo pip3 install keras tensorflow matplotlib`
+`sudo pip3 install keras tensorflow matplotlib opencv-python numpy`
 
 # Setting up Jupyter Notebook
 
